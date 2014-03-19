@@ -1,0 +1,2 @@
+策略模式，跟工厂模式比起来，策略模式封装更彻底。策略模式中，客户端只知道一个类OperationContext，而工厂模式中，客户端知道2个类OperationFactory与Operation。
+策略模式，同样是建立在工厂模式之上的。
